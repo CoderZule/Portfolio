@@ -40,8 +40,7 @@ const Home = () => {
             className='Avatar'
             src={Avatar}
             alt=""
-            style={{ width: "400px", height: "250px" }}
-          />
+           />
 
         </Tilt>
       </div>
