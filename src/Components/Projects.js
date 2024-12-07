@@ -5,9 +5,10 @@ import iGoldPropertyImage from '../images/iGoldPropertyImage.png';
 import apiSurvImage from '../images/apiSurvImage.png';
 import apiSurvAdminImage from '../images/apiSurvAdminImage.png';
 import PuzzleGameImage from '../images/PuzzleGameImage.png';
-import TopStageImage from '../images/TopStagesImage.png';
+import TopStagesImage from '../images/TopStagesImage.png';
 import MyDoctorImage from '../images/MyDoctorImage.png';
 import BusinessProviderImage from '../images/BusinessProviderImage.png';
+import GarageVParrotImage from '../images/GarageVParrotImage.png';
 
 const Projects = () => {
   return (
@@ -19,7 +20,8 @@ const Projects = () => {
         <ProjectBox projectPhoto={iGoldPropertyImage} projectName="iGoldProperty"  />
         <ProjectBox projectPhoto={MyTourismTunisiaImage} projectName="MyTourismTunisia"  />
         <ProjectBox projectPhoto={PuzzleGameImage} projectName="PuzzleGame"  />
-        <ProjectBox projectPhoto={TopStageImage} projectName="TopStage" />
+        <ProjectBox projectPhoto={GarageVParrotImage} projectName="GarageVParrot" />
+        <ProjectBox projectPhoto={TopStagesImage} projectName="TopStages" />
         <ProjectBox projectPhoto={BusinessProviderImage} projectName="BusinessProvider" />
         <ProjectBox projectPhoto={MyDoctorImage} projectName="MyDoctor" />
 

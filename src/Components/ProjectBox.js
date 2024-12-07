@@ -23,9 +23,12 @@ const ProjectBox = ({ projectPhoto, projectName  }) => {
     PuzzleGameDesc: "An engaging Android puzzle game where players can solve picture puzzles with a timer and scoring system. Choose from preset images, select a custom one from your gallery, or snap a photo to create personalized puzzles for endless fun!",
     PuzzleGameGithub: "https://github.com/CoderZule/PuzzleGame",
  
+    GarageVParrotDesc: "A french digital solution that simplifies access to auto repair services and used vehicle searches, enhancing customer convenience and streamlining the process.",
+    GarageVParrotGithub: "https://github.com/CoderZule/GarageVParrot",
+
   
-    TopStageDesc: "An advanced web platform for internship management designed to streamline recruitment processes. It enables organizations to identify the most suitable candidates through psychometric tests with scoring, simplifies the management of internship documents, and empowers students to apply for internships, track their application progress, and easily download essential documents.",
-    TopStageGithub: "https://github.com/CoderZule/TopstagesReactJS",
+    TopStagesDesc: "An advanced web platform for internship management designed to streamline recruitment processes. It enables organizations to identify the most suitable candidates through psychometric tests with scoring, simplifies the management of internship documents, and empowers students to apply for internships, track their application progress, and easily download essential documents.",
+    TopStagesGithub: "https://github.com/CoderZule/TopstagesReactJS",
 
     BusinessProviderDesc: "A web platform designed to connect business providers with Topnet. This platform enables users to propose offers in exchange for commissions. Its primary goals are to generate more business opportunities, streamline commercial prospecting, and facilitate direct engagement with professional clients, specifically targeting enterprise and key account businesses.",
     BusinessProviderGithub: "https://github.com/CoderZule/Topnetb2b",
