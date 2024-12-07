@@ -311,7 +311,7 @@ b{
 }
 
 .Avatar{
-  width: 280px;
+  width: 380px;
 }
 
 @media(max-width:900px){
@@ -333,7 +333,7 @@ b{
   }
 
   .Avatar{
-    width: 200px;
+    width: 300px;
     margin-bottom: 75px;
   }
 }
@@ -375,7 +375,7 @@ b{
     font-size: 16px;
   }
   .Avatar{
-    width: 200px;
+    width: 300px;
     margin-bottom: 25px;
   }
 
@@ -430,7 +430,7 @@ b{
  
 .projectPhoto{
   display: block;
-  width: 60%;
+  width: 100%;
   margin-bottom: 0;  
 }
 
